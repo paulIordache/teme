@@ -1,0 +1,4 @@
+# ninja log v5
+2	109	7037091820311153	CMakeFiles/hash_table2.dir/hash.c.obj	a592dc2eb03e247d
+110	236	7037091821459923	hash_table2.exe	cb019c82c8520bf2
+14	108	7037091820300461	CMakeFiles/hash_table2.dir/main.c.obj	c1eca150e1fefc0b

@@ -1,0 +1,3 @@
+C:/Users/Paul/Desktop/Teme cv gen/Tree/cmake-build-debug/CMakeFiles/Tree.dir
+C:/Users/Paul/Desktop/Teme cv gen/Tree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paul/Desktop/Teme cv gen/Tree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+	(0x0000019250a06dc0)	"1"
+
+Front of the queue: (0x0000019250a06dc0)	"1"
+Tail of the queue: (0x0000019250a06dc0)	"1"
+
+The Queue is EMPTY

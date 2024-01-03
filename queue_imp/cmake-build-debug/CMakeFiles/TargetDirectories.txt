@@ -1,0 +1,3 @@
+C:/Users/Paul/Downloads/Teme cv gen/queue_imp/cmake-build-debug/CMakeFiles/queue_imp.dir
+C:/Users/Paul/Downloads/Teme cv gen/queue_imp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paul/Downloads/Teme cv gen/queue_imp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+0	106	7048630158695984	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+108	249	7048630160001835	matrix_to_list.exe	6808bcfdc985d6af
+2	90	7048631203790756	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+91	207	7048631204867467	matrix_to_list.exe	6808bcfdc985d6af
+2	87	7048631582667307	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+87	207	7048631583726952	matrix_to_list.exe	6808bcfdc985d6af
+2	85	7048631747385519	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+85	198	7048631748431810	matrix_to_list.exe	6808bcfdc985d6af
+2	84	7048632313657137	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+85	199	7048632314720683	matrix_to_list.exe	6808bcfdc985d6af
+2	86	7048632538249216	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+86	201	7048632539308752	matrix_to_list.exe	6808bcfdc985d6af
+2	210	7048967707305073	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+210	349	7048967708920933	matrix_to_list.exe	6808bcfdc985d6af
+3	90	7048974106306010	CMakeFiles/matrix_to_list.dir/main.c.obj	9db3280bf648a34b
+91	207	7048974107367057	matrix_to_list.exe	6808bcfdc985d6af

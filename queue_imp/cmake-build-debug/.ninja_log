@@ -1,0 +1,4 @@
+# ninja log v5
+2	145	7031219196152882	CMakeFiles/queue_imp.dir/main.c.obj	4ceb2265f42b890e
+3	88	7031220341271044	CMakeFiles/queue_imp.dir/queue.c.obj	8baeaefc1c3e5b84
+89	203	7031220342337592	queue_imp.exe	b8461ce46e24d176

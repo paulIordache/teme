@@ -1,0 +1,3 @@
+C:/Users/Paul/Downloads/Teme cv gen/BST_ph/cmake-build-debug/CMakeFiles/BST_ph.dir
+C:/Users/Paul/Downloads/Teme cv gen/BST_ph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paul/Downloads/Teme cv gen/BST_ph/cmake-build-debug/CMakeFiles/rebuild_cache.dir

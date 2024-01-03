@@ -1,0 +1,13 @@
+Stresu 25 1 
+Joi 54 1
+Elon 32 1
+Plm 23 321
+Paul 4 1
+Dan 2 5
+Raul 43 123
+Stresan 65 43
+joc 5 1
+vr 1 6
+pumni 6 1
+pza 2 1
+velea 1331 54545

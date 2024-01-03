@@ -1,0 +1,3 @@
+Stresu 25 1 
+Joi 54 1
+Elon 32 1

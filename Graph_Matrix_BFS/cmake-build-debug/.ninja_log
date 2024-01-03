@@ -1,0 +1,9 @@
+# ninja log v5
+5	221	7036887691787559	CMakeFiles/Graph_Matrix_BFS.dir/graph.c.obj	f84138c4e0b2484c
+5	254	7036874650133456	CMakeFiles/Graph_Matrix_BFS.dir/main.c.obj	aa4ddc8b54596a92
+223	504	7036887694402521	Graph_Matrix_BFS.exe	6ff2f1fcbc7f5325
+41	269	7036874650296415	CMakeFiles/Graph_Matrix_BFS.dir/queue.c.obj	cc627da017401b6c
+2	116	7037000282714872	CMakeFiles/Graph_Matrix_BFS.dir/graph.c.obj	c12b77b1a366a04f
+10	124	7037000282802169	CMakeFiles/Graph_Matrix_BFS.dir/main.c.obj	ad181feae1dedb3b
+19	128	7037000282851793	CMakeFiles/Graph_Matrix_BFS.dir/queue.c.obj	c6a767001c9ed3b0
+128	261	7037000284043128	Graph_Matrix_BFS.exe	6ff2f1fcbc7f5325

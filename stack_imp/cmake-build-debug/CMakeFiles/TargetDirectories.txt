@@ -1,0 +1,3 @@
+C:/Users/Paul/Desktop/Teme cv gen/stack_imp/cmake-build-debug/CMakeFiles/stack_imp.dir
+C:/Users/Paul/Desktop/Teme cv gen/stack_imp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Paul/Desktop/Teme cv gen/stack_imp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
